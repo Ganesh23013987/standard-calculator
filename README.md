@@ -145,6 +145,8 @@ form input.operator{
 
 
 ## OUTPUT:
+# Calculator:
+<img width="956" alt="calculator" src="https://github.com/Ganesh23013987/standard-calculator/assets/147473768/a721a0e8-1c1d-4996-9796-9c8c04ef1fb7">
 
 
 # calc.output:
